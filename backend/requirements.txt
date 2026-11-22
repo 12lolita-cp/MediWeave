@@ -5,4 +5,5 @@ psycopg[binary]
 alembic
 pydantic-settings
 pytest
-httpx
+httpx2
+email-validator
